@@ -3,3 +3,7 @@ Welcome to Ananth Kitchen
 1.Idly
 2.Poori
 3.Dosa
+
+New Dishes Added
+4.Bonda
+5.Vada
